@@ -3,7 +3,7 @@
 	
 	window.onclick = function(e) {
 		if(e.target.tagName == "A") {
-
+			
 		} else {
 			var parentLink = $(e.target).parents('a');
 			if(parentLink.length > 0) {
