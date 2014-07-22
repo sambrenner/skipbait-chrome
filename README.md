@@ -16,3 +16,13 @@ We need to demand more of online media outlets. If BuzzFeed and HuffPo want to b
 We also need to demand more of ourselves, as media consumers and sharers, to be aware of when we are being manipulated by media outlets.
 
 These points address much larger issues than this project can solve, but I hope this helps create a conversation that will push us in the right direction.
+
+Installing
+---
+While I consider Google's $5 developer registration fee, you can install this extension the hard way:
+
+1. [Download and unzip the repo](https://github.com/sambrenner/skipbait-chrome/archive/master.zip)
+2. In Chrome, navigate to [chrome://extensions](chrome://extensions)
+3. Check the box in the upper-right corner to enable developer mode
+4. Click "Load unpacked extension..." and select the repo's folder.
+5. Enjoy!
