@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "SkipBait",
 	"description": "SkipBait allows clickbait to be skipped over in daily web browsing.",
-	"version": "0.1",
+	"version": "0.4",
 	"permissions": [
 		"tabs",
 		"https://skipbait.herokuapp.com/*"
