@@ -22,7 +22,7 @@ Installing
 While I consider Google's $5 developer registration fee, you can install this extension the hard way:
 
 1. [Download and unzip the repo](https://github.com/sambrenner/skipbait-chrome/archive/master.zip)
-2. In Chrome, navigate to [chrome://extensions](chrome://extensions)
+2. In Chrome, navigate to [`chrome://extensions`](chrome://extensions)
 3. Check the box in the upper-right corner to enable developer mode
 4. Click "Load unpacked extension..." and select the repo's folder.
 5. Enjoy!
